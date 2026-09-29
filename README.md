@@ -159,7 +159,6 @@ finsecure-ai/
 │
 ├── api.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
 │
 ├── models/
