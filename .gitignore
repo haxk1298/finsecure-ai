@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+# Dataset files
+fraud_detection.csv
+prepared_txn
+features.parquet
+
+# Generated training datasets
+splitted_DS/*.parquet
